@@ -111,7 +111,7 @@ header {
   color: white;
   height: 400px; /* Parallax effect */
   /* Your code here */
-  background-image: url("images/header.jpg");
+  background-image: url("../images/header.jpg");
   min-height: 400px;
   background-color: #dddddd;
   grid-row: 2 / span 1;
