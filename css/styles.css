@@ -52,7 +52,8 @@ nav a:hover {
   position: absolute;
   /*Your code here - place 500px left and 40px higher */
   left: 500px;
-  top: -40px;
+  top: -100px;
+/*I set to -100px because in some browser width, it'll stack and appear in the screen*/
 }
 
 
